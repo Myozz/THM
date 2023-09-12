@@ -1,0 +1,2 @@
+- Sử dụng: ```whois <DOMAIN_NAME>```
+- Dùng để lấy thông tin như: Tên miền, Thông tin liên lạc của mục tiêu, ngày sáng lập/cập nhật/giải thể và name server

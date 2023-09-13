@@ -1,0 +1,2 @@
+- Không như robots.txt, ngăn chặn thông tin khỏi search engine. sitemap.xml cho một danh sách file mà các chủ web thường muốn chúng được search engine thấy. Chúng đôi khi có thể chứa những khu vực của website mà sẽ khá khó để điều hướng hay thậm chí list các webpages cũ cái mà web hiện tại không còn sử dụng nữa nhưng vẫn chạy ngầm
+- Nói chung là cho map của web

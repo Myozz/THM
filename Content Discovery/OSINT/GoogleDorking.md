@@ -1,0 +1,2 @@
+- Google Hacking/Dorking sử dụng các tính năng nâng cao của Google, cho phép bạn thu thập thông tin theo ý mình.
+- Các filters có thể sử dụng: ![image](https://github.com/Myozz/THM/assets/94811005/edcf9942-5456-4417-b94b-f18fadf9a481)

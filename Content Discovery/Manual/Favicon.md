@@ -1,0 +1,6 @@
+- Favicon là một cái icon nhỏ hiện thị ở thanh địa chỉ hoặc tab để hiển thị thương hiệu của website đấy
+  - Cái icon con mèo của github này: ![image](https://github.com/Myozz/THM/assets/94811005/ea9ef18d-df86-4e80-a90e-9af901adef1a)
+- Thỉnh thoảng khi framworks được sử dụng để xây dựng website, một favicon là một phần của quá trình thiết lập còn sót lại và nếu dev không thay thế chúng với một cái custom favicon, nó sẽ là manh mối cho thấy framwork đang được sử dụng.
+- OWASP có một database những common favicon mà bạn có thể sử dụng để chống lại mục tiêu: [Link](https://wiki.owasp.org/index.php/OWASP_favicon_database)
+  - Cách dùng là nếu lấy được favicon của một web thì ta có thể download về và md5sum file đó ra
+  - Tiếp theo là ctrl trên web database xem có cái nào trung với cái md5sum kia không thì khi đó ta biết được framework mục tiêu sử dụng

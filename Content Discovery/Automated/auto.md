@@ -1,0 +1,5 @@
+- Automated discovery là tiến trình sử dụng tool để thu thập dữ liệu thay vì làm thủ công. Tiến trình này được tự động hoá vì nó gồm hàng trăm, hàng nghìn, thậm chí hàng triệu requests tới một web server. Những requests này kiểm tra nếu một file hay dir tồn tại trên một website, cho ta quyền truy cập vào tài nguyên mà ta không biết nó tồn tại trước đó. Các tiến trình này sử dụng một tài nguyên gọi là wordlists
+- Các tool phổ biến:
+  - ffuf
+  - dirb
+  - gobuster

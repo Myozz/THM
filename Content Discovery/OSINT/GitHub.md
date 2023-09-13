@@ -1,0 +1,3 @@
+- Git là một hệ thông điều khiển phiên bản, nó sẽ theo dõi sự thay đổi của project. Làm việc team sẽ dễ dàng hơn bởi vì bạn có thể thấy từng thành viên đang edit và họ đã làm những gì với files. Khi users hoàn thành thay đổi, họ sẽ uỷ thác chúng với một tin nhắn và đẩy chúng về lại repository cho người khác chỉnh sửa trên máy của họ.
+- GitHub là host của Git trên internet. Repositories có thể được set public hay private và có nhiều truy cập điều khiển. Bạn có thể dùng công cụ search của GitHub để tìm các tên công ty hay website để kiểm tra các repositories thuộc về mục tiêu và tận dụng source code hay các thông tin khác.
+- 

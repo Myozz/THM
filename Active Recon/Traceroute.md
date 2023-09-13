@@ -1,0 +1,10 @@
+- HDSD: dùng lệnh ```traceroute IP_ADDRESS```, và trên windows thì là ```tracert IP_ADDRESS```. chúng sẽ kiểm tra các router từ hệ thống của bạn đến mục tiêu
+- Traceroute (hay tracert trên Windows) là một công cụ chẩn đoán mạng máy tính để hiển thị các tuyến đường (đường dẫn) và đo lường sự chậm trễ quá cảnh của các gói dữ liệu trên một giao thức Internet (IP) mạng.
+- traceroute sử dụng bản tin time to live expired của lệnh ping để biết được từng chặng mà gói tin sẽ phải đi qua trước khi đến đích.
+- Một số options:
+  - -I : sử dụng gói tin giao thức ICMP ECHO
+  - -U : sử dụng gói tin giao thức TCP SYN
+  - -w <number> : cấu hình thời gian chờ phản hồi, tính bằng giây.
+  - -f <number> : Chỉ định giá trị TTL bắt đầu, default là 1, có nghĩa là traceroute sẽ hiển thị kết quả với route đầu tiên trong đường đi.
+  - -q <number> : cấu hình số gói tin phản hồi ở mỗi hop (default là 3)
+  - -m <number> : cấu hình số hops tối đa (giá trị TTL tối đa) sẽ thực hiện, default số hops tối đa là 30.

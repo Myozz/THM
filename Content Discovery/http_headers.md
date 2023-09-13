@@ -1,0 +1,2 @@
+- Khi chúng ta request tới web server, server sẽ trả lại nhiều HTTP headers. Những headers này có thể đôi khi bao gồm những thông tin quan trọng như phần mêm web server và những chương trình/script/ngôn ngữ đang sử dụng
+- Có thể xem headers bằng curl http://<IP> -v (verbose)

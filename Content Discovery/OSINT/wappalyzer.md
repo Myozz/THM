@@ -1,0 +1,1 @@
+- Wappalyzer là một online tool và tiện ích của trình duyệt giúp nhận dùng các công nghệ mà một website sử dụng, như framwork, CMS, payment processors,... và còn có thể là phiên bản của chúng
